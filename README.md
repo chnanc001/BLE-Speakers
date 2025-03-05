@@ -150,6 +150,8 @@ class Button{
 ```
 As can be seem, the pins are initialised to inputs pins in this class itself and the `pressed()` function encapsulates the debouncing. 
 
+(For this project, I did not include input controls for volume on the speaker - this perhaps will be added in a future project).
+
 ### Amplifier-Speaker
 Make sure that the pins for the ampmlifier circuit are correctly declared in the `setup()`:
 ```
@@ -157,4 +159,11 @@ Make sure that the pins for the ampmlifier circuit are correctly declared in the
   cfg.pin_ws = 26;
   cfg.pin_data = 25;
 ```
+
+## Structure
+I wanted my bluetooth speaker to look like a jukebox, thus laser cut the enclosure out of mdf.  The three capacitive touch switches were simply glued to the back of their respective symbols.
+
+
+
+
 
