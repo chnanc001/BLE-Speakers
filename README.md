@@ -12,9 +12,17 @@ This project involved making a bluetooth speaker using a ESP32 microcontroller (
 - play music from phone (volume control from phone only)
 
 ## Schematic
+LCD uses I2C communication, on the ESP32 pins 21 (SDA) and 22 (SCL) are default for I2C.
+
+
 
 
 
 ## Stereo Sound
-The [Class D amplifiers](https://www.aliexpress.com/item/1005005383121121.html?spm=a2g0o.order_detail.order_detail_item.2.428bf19ckJln9C) were connected to achieve stereo sound.
-![amplifiercircuit]()
+The two [Class D amplifiers](https://www.aliexpress.com/item/1005005383121121.html?spm=a2g0o.order_detail.order_detail_item.2.428bf19ckJln9C) were connected to achieve stereo sound.
+
+<img src="https://github.com/chnanc001/BLE-Speakers/blob/main/Images/AmplifierCircuit.PNG" width="500">
+
+
+## Code
+### Scrolling Text
