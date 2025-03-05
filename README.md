@@ -163,7 +163,7 @@ Make sure that the pins for the ampmlifier circuit are correctly declared in the
 ## Structure
 I wanted my bluetooth speaker to look like a jukebox, thus laser cut the enclosure out of mdf.  The three capacitive touch switches were simply glued to the back of their respective symbols.
 
-
+<img src="https://github.com/chnanc001/BLE-Speakers/blob/main/Images/Final.PNG" width="100">
 
 
 
