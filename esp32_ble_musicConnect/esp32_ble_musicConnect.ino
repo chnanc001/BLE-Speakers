@@ -104,9 +104,6 @@ void setup() {
   a2dp_sink.set_avrc_metadata_callback(avrc_metadata_callback);
 
   Serial.begin(115200);
-  // capacitive touch button setup for user input
-  // pinMode(pause_play.pin, INPUT);
-  pinMode(32, INPUT);
 
   // initialize LCD
   lcd.init();
