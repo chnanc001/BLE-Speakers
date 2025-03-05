@@ -154,12 +154,6 @@ void saveSongInfo(String text){
   song_info = song_info + " "; 
 }
 
-// void printPauseLCD(){
-//   lcd.clear();  // clear screen
-//   lcd.setCursor(0, 0);  // move cursor to first row
-//   lcd.print("Paused");
-// }
-
 void printPlayLCD(String text){
   lcd.clear();  // clear screen
   lcd.setCursor(0, 0);  // move cursor to first row
