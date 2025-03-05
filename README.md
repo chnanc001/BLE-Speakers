@@ -5,7 +5,7 @@ This project involved making a bluetooth speaker using a ESP32 microcontroller (
 ## Install
 - clone repo
 - connect capacitive touch switches (or other input switches), LCD screen, speakers and amplifier circuits according to schematic
-- upload sketch to ESP32 board
+- upload sketch (esp32_ble_musicConnect.ino) to ESP32 board
 - connect phone to speaker via bluetooth (speaker is called 'Stereo Typical')
 - play music from phone (volume control from phone only)
 
