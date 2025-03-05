@@ -20,7 +20,9 @@ The three (previous, pause/play, next) capacitive touch switches are simple inpu
 ## Amplifier Circuit for Stereo Sound
 The two [Class D amplifiers](https://www.aliexpress.com/item/1005005383121121.html?spm=a2g0o.order_detail.order_detail_item.2.428bf19ckJln9C) were connected as follows to achieve stereo sound.
 
-<img src="https://github.com/chnanc001/BLE-Speakers/blob/main/Images/AmplifierCircuit.PNG" width="500">
+<div align="center">
+  <img src="https://github.com/chnanc001/BLE-Speakers/blob/main/Images/AmplifierCircuit.PNG" width="500">
+</div>
 
 
 ## Code
@@ -163,7 +165,10 @@ Make sure that the pins for the ampmlifier circuit are correctly declared in the
 ## Structure
 I wanted my bluetooth speaker to look like a jukebox, thus laser cut the enclosure out of mdf.  The three capacitive touch switches were simply glued to the back of their respective symbols.  (The text on the LCD screen is mid-scroll).
 
-<img src="https://github.com/chnanc001/BLE-Speakers/blob/main/Images/Final.png" width="300">
+<div align="center">
+  <img src="https://github.com/chnanc001/BLE-Speakers/blob/main/Images/Final.png" width="300">
+</div>
+
 
 
 
